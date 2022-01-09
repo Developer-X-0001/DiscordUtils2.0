@@ -160,4 +160,4 @@ For further information please read the docs
 # Support
 **__Please make sure that you are on the latest version of [DiscordUtils](https://pypi.org/project/DiscordUtils) and [youtube_dl](https://pypi.org/project/youtube_dl) before contacting for support__**
 
-DM/PM `toxic_recker#2795` on Discord for support
+DM/PM `Developer X` on Discord for support
